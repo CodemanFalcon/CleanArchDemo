@@ -36,7 +36,7 @@ namespace CleanArch.Infra.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Course");
+                    b.ToTable("Courses");
                 });
 #pragma warning restore 612, 618
         }
